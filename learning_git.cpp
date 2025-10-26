@@ -12,7 +12,8 @@ int main() {
     devide = num1 / num2;
     multiply_num1 = num1 * num1;
     multiply_num2 = num2 * num2;
-    cout << "Im learnig git";
+    cout << "Im learnig git" << endl;
+    cout << "END";
 
     return 0;
 }

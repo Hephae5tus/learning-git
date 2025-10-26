@@ -13,7 +13,7 @@ int main() {
     multiply_num1 = num1 * num1;
     multiply_num2 = num2 * num2;
     cout << "Im learnig git" << endl;
-    cout << "END";
+    cout << "END.";
 
     return 0;
 }
